@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>박스 쉐도우</title>
+
+<style>
+.shd1 {
+	box-shadow: 10px 10px 5px 5px #666;
+}
+.shd2 {
+	box-shadow: 10px 10px 50px -1px white inset;
+}
+</style>
+
+</head>
+<body>
+
+</body>
+</html>

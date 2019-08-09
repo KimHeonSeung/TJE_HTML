@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>하위 선택자</title>
+
+<style type = "text/css">
+	#member_info p {color: blue;}
+</style>
+	
+
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>메인 페이지</title>
+</head>
+<body>
+	<!-- 현재 위치한 파일 경로 기준 -->
+	<!-- 내가 가진 html 파일끼리의 링크 -->
+	<h3><a href = "./a_sub1.html">SUB 1번 페이지로 이동   </a>
+		<a href = "./a_sub1.html" target = "_blank">   새창에서 열기</a></h3>
+	<h3><a href = "./a_sub2.html">SUB 2번 페이지로 이동</a>
+		<a href = "./a_sub2.html" target = "_blank">새창에서 열기</a></h3>
+	
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>테이블</title>
+
+</style>
+</head>
+<body>
+
+<!-- colspan, rowspan  -->
+
+<h1>테이블 출력</h1>
+<table border = "1">
+	<tr>
+	<!-- 2개를 합치겠다 -->
+		<th colspan = "2">성적</th>
+	</tr>
+	
+	<tr>
+		<td>국어</td>
+		<td>95</td>
+	</tr>
+	
+	<tr>
+		<td>영어</td>
+		<td>87</td>
+	</tr>
+	
+	<tr>
+		<td>수학</td>
+		<td>91</td>
+	</tr>
+</table>
+
+<table border = "1">
+	<tr>
+	<!-- 2개를 합치겠다 -->
+		<th rowspan = "2">1학기</th>
+		<th>국어</th>
+		<th>95</th>
+	</tr>
+	
+	<tr>
+		<td>영어</td>
+		<td>87</td>
+	</tr>
+	
+	<tr>
+	<!-- 2개를 합치겠다 -->
+		<th rowspan = "2">2학기</th>
+		<th>수학</th>
+		<th>84</th>
+	</tr>
+	
+	<tr>
+		<td>사화</td>
+		<td>92</td>
+	</tr>
+	
+</table>
+
+</body>
+</html>

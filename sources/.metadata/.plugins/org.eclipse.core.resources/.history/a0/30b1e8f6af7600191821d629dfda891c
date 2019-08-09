@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+#dot {
+	border-style: dotted;
+	border-width: 10px
+}
+
+#dash {
+	border-style: dashed;
+}
+
+#solid {
+	border-style: solid;
+}
+
+#groove {
+	border-style: groove;
+}
+
+#inset {
+	border-style: inset;
+}
+
+#outset {
+	border-style: outset;
+}
+
+#ridge {
+	border-style: ridge;
+}
+
+#hidden {
+	border-style: hidden;
+}
+
+#double {
+	border-style: double;
+}
+
+</style>
+
+</head>
+<body>
+<h1 id = "dot" border = 1>dotted</h1>
+<h1 id = "dash" border = "10">dashed</h1>
+<h1 id = "solid" border = "10">solid</h1>
+<h1 id = "groove" border = "10">groove</h1>
+<h1 id = "inset" border = "10">inset</h1>
+<h1 id = "outset" border = "10">outset</h1>
+<h1 id = "ridge" border = "10">ridge</h1>
+<h1 id = "hidden" border = "10">hidden</h1>
+<h1 id = "double" border = "10">double</h1>
+
+
+</body>
+</html>

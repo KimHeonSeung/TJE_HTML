@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>보더 두께</title>
+
+<style>
+	
+	table {
+		border-top-width: 10px;
+		border-bottom-width: 10px;
+	}
+
+</style>
+
+<table border = "1">
+	<tr>테이블1</tr>
+		<td>성분1</td>
+		<td>성분2</td>
+		<td>성분3</td>
+		<td>성분4</td>
+</table>
+
+
+</head>
+<body>
+
+
+
+</body>
+</html>

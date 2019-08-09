@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>보더 두께</title>
+
+<style>
+	
+	table {
+		border-top-width: 10px;
+		border-bottom-width: 10px;
+	}
+
+</style>
+
+
+
+</head>
+<body>
+
+
+
+</body>
+</html>

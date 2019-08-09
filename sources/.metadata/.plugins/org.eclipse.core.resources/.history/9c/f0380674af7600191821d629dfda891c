@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+#dot {
+	border-style: dotted;
+}
+
+#dash {
+	border-style: dashed;
+}
+
+#solid {
+	border-style: solid;
+}
+
+</style>
+
+</head>
+<body>
+<h1 id = "dot" border = "1">dotted</h1>
+<h1 id = "dash" border = "1">dashed</h1>
+<h1 id = "solid" border = "1">solid</h1>
+<h1 id = "groove" border = "1">dotted</h1>
+<h1 border = "1">dotted</h1>
+<h1 border = "1">dotted</h1>
+<h1 border = "1">dotted</h1>
+<h1 border = "1">dotted</h1>
+</body>
+</html>

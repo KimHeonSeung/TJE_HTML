@@ -1,0 +1,22 @@
+<html>
+
+<head> 
+	<title>standard</title>
+
+	<style type = "text/css">
+	.accent {
+	 font-size : 130px;
+	 color : green;
+	 font-weight : 100;
+	}
+	</style>
+</head>
+
+<body> 
+	<p>
+	���� <span class = "accent">�� ǥ��</span>�� ������
+	���� <span class = "accent">�߿�</span> �մϴ�.
+	</p>
+</body>
+
+</html>

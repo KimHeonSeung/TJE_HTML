@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>회원가입 화면</title>
+</head>
+<body>
+
+<h2>회원가입</h2>
+
+<input type = "text" name = "id">
+<input type = "text" name = "pw">
+<input type = "text" name = "name">
+
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>박스 모델</title>
+
+<style type = "text/css">
+h1 {
+	padding-bottom: 10px;
+	border-bottom: 1px solid blue;
+}
+
+p {
+	padding: 10px;
+	border: 1px red solid;
+}
+
+</style>
+
+</head>
+<body>
+
+<h1></h1>
+<p></p>
+
+</body>
+</html>

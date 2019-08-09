@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+*{
+	color : #80ff00;
+}
+	
+p{
+	color : #ff80ff;
+}
